@@ -11,6 +11,7 @@ NgrokServ es un script de auto instalación del servidor ngrok en Termux o en cu
 * [√] Ubuntu
 # REQUISITOS
 * [+] git
+* [+] ngrok authtoken
 # INSTALACIÓN
 * $ git clone https://github.com/Darkmux/ngrokserv
 * $ cd ngrokserv
