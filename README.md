@@ -17,6 +17,8 @@ NgrokServ es un script de auto instalación del servidor ngrok en Termux o en cu
 * $ cd ngrokserv
 * $ chmod 777 ngrokserv.sh
 * $ bash ngrokserv.sh
+# EJECUTABLE
+* $ ngrok
 # Creado por Darkmux
 # ©WHITE HACKS
 https://t.me/whitehacks_bot
